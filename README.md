@@ -2,6 +2,8 @@
 
 Some little projects using #pandas, #numpy and visulization libs
 
+## [Job salaries](./job-salaries.ipynb)
+Exploring a dataset about data jobs salaries from 2020 to 2022
 
 ## [Exchange rates in Argentina](./exchange-rates-in-argentina.ipynb)
 
@@ -14,3 +16,6 @@ The goals of this notebook are:
 3.	Merge those datasets.
 4.	Calculate the mean between buy and sell for both exchange rates. 
 5.	Analyze the correlation along time for these exchange rates. 
+
+## [25 Mistakes You Shouldn't Make](./mistakes.ipynb)
+25 mistakes a _Pandas_ developer shouldn't make
