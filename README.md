@@ -19,3 +19,5 @@ The goals of this notebook are:
 
 ## [25 Mistakes You Shouldn't Make](./mistakes.ipynb)
 25 mistakes a _Pandas_ developer shouldn't make
+
+## [Using `plotly`](https://github.com/pveinberg/data-analysis/blob/main/samples-plotly/main-samples-plotly.ipynb)
