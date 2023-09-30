@@ -1,6 +1,6 @@
-# Little Data Analysis Projects
+# Data Analysis Projects
 
-Some little projects using #pandas, #numpy and visulization libs
+Some projects using `#pandas`, `#numpy` and visualization libs
 
 ## [Job salaries](./job-salaries.ipynb)
 Exploring a dataset about data jobs salaries from 2020 to 2022
